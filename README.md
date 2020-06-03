@@ -8,3 +8,6 @@ Lembrando, se sua quarentena não estiver sendo produtiva tudo bem,  se estiver 
 
 ###   Exemplo
 ![alt text](reconhecimentofacil.png "Exemplo do aplicativo em funcionamento")
+
+## Contato
+Linkedin: https://www.linkedin.com/in/guilhermebatistamagalhaes/
